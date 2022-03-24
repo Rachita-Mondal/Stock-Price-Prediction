@@ -3,10 +3,10 @@ This repository contains the codes, report and slides for the project of the cou
 # Project Title 
 Time Series Analysis for Daily Stock Price Prediction of **Indus Tower Limited**
 # Team Members
-*Rachita Mondal
-*Souvik Bhattacharyya
-*Shreya Pramanik
-*Arkaprova Saha
-*Bimal Roy
+* Rachita Mondal
+* Souvik Bhattacharyya
+* Shreya Pramanik
+* Arkaprova Saha
+* Bimal Roy
 
 
