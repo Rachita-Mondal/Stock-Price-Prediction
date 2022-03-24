@@ -3,7 +3,7 @@ This repository contains the codes, report and slides for the project of the cou
 # Project Title 
 Time Series Analysis for Daily Stock Price Prediction of **Indus Tower Limited**
 [Report](https://github.com/Rachita-Mondal/Stock-Price-Prediction/blob/main/Group%203_Final%20Report_MTH517A.pdf)
-[Slides]
+[Slides](https://github.com/Rachita-Mondal/Stock-Price-Prediction/blob/main/Group%203_Presentation_MTH517A.pptx)
 [Codes]
 # Supervisor
 Prof. Amit Mitra, Department of Mathematics & Statistics, IIT Kanpur 
