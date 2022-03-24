@@ -2,7 +2,7 @@
 This repository contains the codes, report and slides for the project of the course MTH517A-Time Series Analysis at IIT Kanpur, during the academic year 2021-2022.
 # Project Title 
 Time Series Analysis for Daily Stock Price Prediction of **Indus Tower Limited**
-[Report]
+[Report](https://github.com/Rachita-Mondal/Stock-Price-Prediction/blob/main/Group%203_Final%20Report_MTH517A.pdf)
 [Slides]
 [Codes]
 # Supervisor
